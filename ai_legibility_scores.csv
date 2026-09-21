@@ -1,0 +1,597 @@
+rank,domain,ai_legibility_score,band,platform,is_ecommerce,scanned_on,methodology_version
+1,nerdwallet.com,71.5,Established,wordpress,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+2,pewresearch.org,70.5,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+3,investopedia.com,69.5,Established,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+4,yoast.com,69.5,Established,wordpress,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+5,cbsnews.com,69.3,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+6,chive.com,69.2,Established,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+7,deepmind.google,69.0,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+8,verywellhealth.com,68.0,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+9,findlaw.com,67.3,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+10,neilpatel.com,66.8,Established,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+11,zapier.com,66.8,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+12,globalhealing.com,66.4,Established,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+13,searchengineland.com,66.4,Established,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+14,britannica.com,66.1,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+15,hopkinsmedicine.org,66.0,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+16,snowflake.com,65.8,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+17,axios.com,65.1,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+18,nolo.com,64.8,Established,custom,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+19,backlinko.com,64.6,Established,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+20,moz.com,64.6,Established,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+21,edx.org,64.5,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+22,healthline.com,64.4,Established,wordpress,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+23,my.clevelandclinic.org,63.7,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+24,bankrate.com,63.6,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+25,tropicskincare.com,63.1,Established,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+26,jasper.ai,62.9,Established,webflow,false,2026-06-21,aivs-1.0-aeo20260620-full-evid20260621
+27,earthjustice.org,62.8,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+28,vuoriclothing.com,62.8,Established,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+29,theguardian.com,62.6,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+30,usc.edu,62.6,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+31,vanityfair.com,62.5,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+32,elifesciences.org,62.2,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+33,heart.org,62.2,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+34,byrdie.com,62.0,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+35,fool.com,62.0,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+36,marieclaire.com,62.0,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+37,searchenginejournal.com,62.0,Established,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+38,bamboohr.com,61.8,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+39,thebalancemoney.com,61.8,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+40,wallpaper.com,61.8,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+41,entrepreneur.com,61.2,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+42,lever.co,61.1,Established,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+43,coursera.org,60.9,Established,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+44,amnesty.org,60.8,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+45,emarketer.com,60.8,Established,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+46,upliftdesk.com,60.8,Established,bigcommerce,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+47,battlbox.com,60.7,Established,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+48,monday.com,60.5,Established,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+49,nbcnews.com,60.5,Established,react-spa,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+50,oceanconservancy.org,60.4,Established,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+51,fieldpulse.com,60.0,Established,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+52,finisterre.com,60.0,Established,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+53,chathamhouse.org,59.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+54,nrf.com,59.8,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+55,carbonbrief.org,59.7,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+56,crossrope.com,59.5,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+57,flourish.studio,59.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+58,naacpldf.org,59.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+59,thebodyshop.com,59.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+60,capezio.com,59.1,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+61,experian.com,58.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+62,formula1.com,58.8,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+63,orlebarbrown.com,58.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+64,scientificamerican.com,58.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+65,bbc.com,58.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+66,aclu.org,58.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+67,brookings.edu,58.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+68,doctorcareanywhere.com,58.4,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+69,gov.uk,58.4,Developing,custom,false,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+70,health.harvard.edu,58.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+71,atlassian.com,58.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+72,huel.com,58.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+73,investwithroots.com,58.3,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+74,kpmg.com,58.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+75,vogue.com,58.3,Developing,custom,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+76,travismathew.com,58.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+77,cultureamp.com,58.1,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+78,hubspot.com,58.1,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+79,gymshark.com,58.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+80,workhuman.com,58.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+81,elle.com,57.9,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+82,worldwildlife.org,57.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+83,ohpolly.com,57.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+84,architecturaldigest.com,57.7,Developing,custom,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+85,urban.org,57.7,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+86,aloyoga.com,57.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+87,blog.google,57.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+88,monicaandandy.com,57.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+89,whowhatwear.com,57.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+90,wri.org,57.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+91,bcg.com,57.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+92,capgemini.com,57.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+93,liberator.com,57.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+94,representclo.com,57.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+95,tonies.com,57.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+96,amplitude.com,57.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+97,judithleiber.com,57.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+98,rand.org,57.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+99,townandcountrymag.com,57.0,Developing,react-spa,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+100,cloudflare.com,56.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+101,simbasleep.com,56.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+102,berlinpackaging.com,56.6,Developing,bigcommerce,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+103,cfr.org,56.6,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+104,cosanostraa.com,56.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+105,culturesforhealth.com,56.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+106,ugglyandco.com,56.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+107,marketingbrew.com,56.4,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+108,one.org,56.3,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+109,rainforest-alliance.org,56.3,Developing,wordpress,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+110,edf.org,56.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+111,socialmediaexaminer.com,56.2,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+112,atkins.com,56.0,Developing,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+113,betterup.com,56.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+114,donnakaran.com,55.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+115,gatesfoundation.org,55.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+116,patchmypc.com,55.8,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+117,scotusblog.com,55.8,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+118,sothebys.com,55.7,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+119,darkreading.com,55.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+120,harvard.edu,55.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+121,ohpolly.ae,55.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+122,bathroomsalesdirect.com.au,55.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+123,contentmarketinginstitute.com,55.4,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+124,chicagomusicexchange.com,55.1,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+125,boden.com,55.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+126,clintonfoundation.org,55.0,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+127,gant.com,55.0,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+128,kottke.org,55.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+129,woodencamera.com,55.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+130,cancer.org,54.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+131,theporchswingcompany.com,54.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+132,eji.org,54.8,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+133,rockefellerfoundation.org,54.8,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+134,shop.mercedesamgf1.com,54.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+135,slack.com,54.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+136,statista.com,54.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+137,promixnutrition.com,54.7,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+138,digiday.com,54.6,Developing,wordpress,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+139,greenpeople.co.uk,54.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+140,code.org,54.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+141,rodeohouston.com,54.5,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+142,shop.lifefitness.com,54.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+143,frog.co,54.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+144,nature.com,54.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+145,bain.com,54.1,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+146,ai.meta.com,54.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+147,ceb.com,54.0,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+148,csis.org,54.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+149,fenwick.co.uk,54.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+150,eshop.resmed.com,53.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+151,aroma360.com,53.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+152,bearmattress.com,53.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+153,doctorswithoutborders.org,53.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+154,josephjoseph.com,53.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+155,getty.edu,53.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+156,nascar.com,53.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+157,united-states-flag.com,53.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+158,viavision.com.au,53.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+159,harpersbazaar.com,53.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+160,stanford.edu,53.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+161,eddiebauer.com,53.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+162,npr.org,53.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+163,toysrus.com,53.3,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+164,apnews.com,53.1,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+165,docker.com,53.1,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+166,lennysnewsletter.com,53.1,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+167,madvikingbeard.com,53.1,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+168,bigberthaoriginal.com,53.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+169,rachelriley.co.uk,53.0,Developing,shopify,true,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+170,archdaily.com,52.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+171,boingboing.net,52.9,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+172,cobra.com,52.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+173,copyblogger.com,52.9,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+174,giftshop.redcross.org.uk,52.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+175,miola.co.uk,52.7,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+176,ama.org,52.6,Developing,woocommerce,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+177,bellicon.com,52.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+178,marginalrevolution.com,52.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+179,openai.com,52.5,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+180,alphabetbags.com,52.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+181,iab.com,52.4,Developing,woocommerce,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+182,margarethowell.co.uk,52.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+183,radley.co.uk,52.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+184,twloha.com,52.4,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+185,crockettandjones.com,52.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+186,40rty.ai,52.2,Developing,react-spa,true,2026-08-12,aivs-1.0-aeo20260620-full-evid20260621
+187,cratejoy.com,52.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+188,store.pirelli.com,52.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+189,cardosystems.com,52.1,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+190,ahrefs.com,52.0,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+191,blog.workday.com,52.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+192,frontiersin.org,52.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+193,moon-audio.com,52.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+194,siksilk.com,51.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+195,asana.com,51.8,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+196,decorsteals.com,51.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+197,fordfoundation.org,51.8,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+198,merckmanuals.com,51.8,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+199,vectorinstitute.ai,51.7,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+200,kiddiesco.com,51.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+201,cipd.org,51.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+202,glamour.com,51.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+203,nfl.com,51.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+204,edutopia.org,51.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+205,moroccanoil.com,51.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+206,nam.org,51.4,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+207,anthropic.com,51.3,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+208,harpercollins.co.uk,51.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+209,cam.ac.uk,51.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+210,diamonds.hallmark.com,51.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+211,izmi.co.uk,51.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+212,mixpanel.com,51.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+213,wmagazine.com,51.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+214,worldcat.org,51.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+215,drinklmnt.com,50.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+216,staffuniforms.co.uk,50.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+217,anyahindmarch.jp,50.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+218,greenhouse.com,50.8,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+219,paiskincare.com,50.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+220,adweek.com,50.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+221,designboom.com,50.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+222,dmns.org,50.6,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+223,lyleandscott.com,50.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+224,notion.com,50.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+225,triquetrahealth.com,50.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+226,brownsfashion.com,50.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+227,offordandsons.co.uk,50.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+228,pbs.org,50.4,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+229,accenture.com,50.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+230,assots.co.uk,50.3,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+231,cbinsights.com,50.2,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+232,datawrapper.de,50.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+233,gallup.com,50.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+234,llloves.co.uk,50.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+235,miraclenoodle.com,50.1,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+236,350.org,50.0,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+237,bombas.com,50.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+238,dreamlanduk.co.uk,50.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+239,harvardbusiness.org,50.0,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+240,columbia.edu,49.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+241,greatgreensystems.com,49.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+242,zippypaws.com,49.8,Developing,woocommerce,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+243,mlcommons.org,49.6,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+244,thrudark.com,49.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+245,studiobytcs.com,49.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+246,transunion.com,49.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+247,lattice.com,49.4,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+248,smashingmagazine.com,49.4,Developing,custom,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+249,surfrider.org,49.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+250,pnas.org,49.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+251,uprootclean.com,49.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+252,daisychainshop.com,49.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+253,ghostcontrols.com,49.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+254,naturesanswer.com,49.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+255,review.firstround.com,49.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+256,shl.com,49.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+257,tandyleather.com,49.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+258,distill.pub,49.1,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+259,eff.org,49.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+260,mychicagosteak.com,49.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+261,science.org,49.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+262,vintagewatchspecialist.com,49.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+263,languageshoes.com,48.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+264,orthofeet.com,48.9,Developing,shopify,true,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+265,smallhd.com,48.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+266,blissworld.com,48.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+267,diyautotune.com,48.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+268,fredsafety.co.uk,48.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+269,naturabrasil.com,48.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+270,apparel.onepeloton.com,48.7,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+271,piperloucollection.com,48.7,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+272,dropps.com,48.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+273,mamasandpapas.com,48.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+274,themarginalian.org,48.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+275,waitbutwhy.com,48.6,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+276,whitney.org,48.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+277,ghostbed.com,48.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+278,shrm.org,48.4,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+279,thebeancoffeecompany.com,48.4,Developing,unknown,unknown,2026-06-21,aivs-1.0-aeo20260620-full-evid20260621
+280,diabetes.org,48.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+281,happymammoth.com,48.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+282,electrified.co.uk,48.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+283,research.ibm.com,48.2,Developing,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+284,savewater.co.uk,48.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+285,teefamm.com,48.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+286,fivetran.com,48.0,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+287,malala.org,48.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+288,falconelectrical.co.uk,47.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+289,fashionweekdaily.com,47.8,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+290,marketingprofs.com,47.8,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+291,caseknives.com,47.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+292,linuxfoundation.org,47.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+293,ted.com,47.6,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+294,theatlantic.com,47.6,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+295,buckleylondon.com,47.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+296,printingbee.co.uk,47.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+297,ey.com,47.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+298,informationisbeautiful.net,47.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+299,pentagram.com,47.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+300,reworked.carhartt.com,47.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+301,hrw.org,47.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+302,si.edu,47.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+303,streetshirts.com,47.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+304,eleuther.ai,47.0,Developing,squarespace,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+305,lafoundation.org,46.9,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+306,shinesty.com,46.9,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+307,nutribullet.com,46.8,Developing,woocommerce,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+308,magnolia.com,46.7,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+309,counterculturecoffee.com,46.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+310,kellerheartt.com,46.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+311,moltonbrown.co.jp,46.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+312,personalize.williams-sonoma.com,46.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+313,producthunt.com,46.6,Developing,react-spa,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+314,law.cornell.edu,46.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+315,nature.org,46.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+316,dukeanddexter.com,46.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+317,moodys.com,46.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+318,shop.solotech.com,46.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+319,time4learning.com,46.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+320,webmd.com,46.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+321,katherineswaine.co.uk,46.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+322,milanodirouge.com,45.9,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+323,britishmuseum.org,45.8,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+324,isaca.org,45.8,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+325,scampsandchamps.com,45.7,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+326,thenostalgiashop.co.uk,45.7,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+327,moma.org,45.6,Developing,shopify,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+328,unitedbyblue.com,45.6,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+329,hotjar.com,45.5,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+330,ourworldindata.org,45.5,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+331,splay.co.uk,45.5,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+332,broadinstitute.org,45.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+333,freshcleantees.com,45.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+334,melissaanddoug.com,45.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+335,oliversweeney.com,45.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+336,efamol.com,45.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+337,northcarolinafc.com,45.2,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+338,rewclothing.co.uk,45.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+339,abcnews.go.com,45.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+340,politico.com,45.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+341,theinformation.com,45.0,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+342,alz.org,44.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+343,isc2.org,44.8,Developing,react-spa,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+344,vuoriclothing.com.au,44.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+345,hbr.org,44.6,Developing,react-spa,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+346,kubernetes.io,44.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+347,poltsa.co.uk,44.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+348,allenai.org,44.4,Developing,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+349,americanprogress.org,44.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+350,heap.io,44.4,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+351,morphyrichards.co.uk,44.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+352,observablehq.com,44.4,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+353,store.uklearns.pearson.com,44.4,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+354,guggenheim.org,44.3,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+355,hoover.org,44.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+356,shop.ford.de,44.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+357,mlb.com,44.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+358,mozilla.org,44.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+359,plos.org,44.0,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+360,segment.com,44.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+361,cloudcraft.co.uk,43.9,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+362,greenpeace.org,43.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+363,msg.com,43.8,Developing,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+364,shop.bentleymotors.com,43.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+365,varsity.com,43.8,Developing,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+366,wacoal-america.com,43.7,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+367,daisystreet.co.uk,43.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+368,shop.delta.com,43.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+369,swag.unisys.com,43.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+370,cellucor.com,43.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+371,medium.com,43.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+372,obama.org,43.4,Developing,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+373,aicpa-cima.com,43.3,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+374,cloudsecurityalliance.org,43.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+375,getdbt.com,43.3,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+376,happy-floors.com,43.3,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+377,github.com,43.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+378,vuoriclothing.de,43.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+379,cognizant.com,43.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+380,colehaan.com,43.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+381,funko.com,43.0,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+382,research.google,43.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+383,deloitte.com,42.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+384,exuviance.com,42.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+385,hobsonshoes.co.uk,42.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+386,savant-health.com,42.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+387,berry.edu,42.7,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+388,bupaoptical.bupa.com.au,42.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+389,cypress.io,42.6,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+390,store.jeep.com,42.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+391,wearedorothy.com,42.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+392,cooperhewitt.org,42.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+393,miro.com,42.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+394,detailking.com,42.3,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+395,maxxis.com,42.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+396,petrolheadart.com,42.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+397,popsockets.com,42.2,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+398,saastr.com,42.2,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+399,kiva.org,42.0,Developing,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+400,openstax.org,42.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+401,princeton.edu,42.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+402,us.hotelchocolat.com,42.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+403,mksportscars.com,41.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+404,pmi.org,41.8,Developing,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+405,royalsociety.org,41.8,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+406,carpet-underlay-shop.co.uk,41.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+407,fitchratings.com,41.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+408,refinery29.com,41.6,Developing,react-spa,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+409,15five.com,41.4,Developing,wordpress,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+410,charitywater.org,41.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+411,greatplacetowork.com,41.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+412,khanacademy.org,41.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+413,paperswithcode.com,41.4,Developing,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+414,sciencedaily.com,41.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+415,allbirds.com,41.3,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+416,ycombinator.com,41.3,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+417,academyonline.intertek.com,41.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+418,josefseibel.co.uk,41.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+419,mfa.org,41.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+420,properpasty.co.uk,41.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+421,vuoriclothing.fr,41.2,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+422,industryweek.com,41.0,Developing,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+423,shop.ford.co.uk,41.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+424,accessories.vodafone.co.uk,40.8,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+425,valorfightwear.com,40.8,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+426,nfinity.com,40.7,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+427,databricks.com,40.6,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+428,figma.com,40.6,Developing,bigcommerce,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+429,herbuk.com,40.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+430,lilycuddles.co.uk,40.6,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+431,ca.dunlopsports.com,40.4,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+432,ck12.org,40.4,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+433,stratechery.com,40.4,Developing,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+434,xforcegalaxy.com,40.4,Developing,wordpress,false,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+435,circuitplanet.co.uk,40.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+436,mansuri.co.uk,40.2,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+437,owasp.org,40.2,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+438,shop.octopus.com,40.0,Developing,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+439,shop.simon.com,40.0,Developing,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+440,thebroad.org,40.0,Developing,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+441,nutritionleaders.co.uk,39.9,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+442,smallbusiness.sealedair.com,39.7,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+443,habitat.org,39.6,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+444,plannedparenthood.org,39.4,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+445,wellfound.com,39.3,Starting Point,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+446,aaksonline.com,39.2,Starting Point,squarespace,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+447,store.inquirer.com,39.2,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+448,alistapart.com,39.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+449,berkeley.edu,39.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+450,globalboba.com,39.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+451,izzywheels.com,39.0,Starting Point,wix,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+452,wikidata.org,39.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+453,pulse.gallery,38.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+454,worldometers.info,38.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+455,duolingo.com,38.6,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+456,roadsideassistance.canadiantire.ca,38.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+457,brennancenter.org,38.4,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+458,db3online.com,38.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+459,petemckee.com,38.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+460,printexpert.co.uk,38.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+461,store.equinix.com,38.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+462,apache.org,38.2,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+463,wipro.com,38.2,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+464,abhinavayu.com,38.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+465,americanbar.org,38.0,Starting Point,custom,true,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+466,artic.edu,38.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+467,cell.com,38.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+468,crossfit.com,38.0,Starting Point,wordpress,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+469,climatecentral.org,37.8,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+470,daks.com,37.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+471,espn.com,37.8,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+472,mit.edu,37.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+473,ox.ac.uk,37.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+474,python.org,37.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+475,vam.ac.uk,37.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+476,nkuku.com,37.7,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+477,solacebands.com,37.6,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+478,wornwear.patagonia.com,37.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+479,krebsonsecurity.com,37.5,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+480,pepperball.com,37.5,Starting Point,bigcommerce,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+481,commonlit.org,37.2,Starting Point,webflow,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+482,louvre.fr,37.0,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+483,sorrelli.com,37.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+484,education.adp.com,36.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+485,prsa.org,36.6,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+486,shop.safetyculture.com,36.6,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+487,scripps.ucsd.edu,36.4,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+488,revisionskincare.com,36.2,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+489,ucla.edu,36.2,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+490,twineagles.dometic.com,36.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+491,fifa.com,35.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+492,gymversus.com,35.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+493,mode.com,35.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+494,parkersgardencompany.com,35.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+495,pwc.com,35.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+496,reforge.com,35.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+497,lavenhamjackets.com,35.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+498,store.postman.com,35.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+499,mobilitybuy.com,35.5,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+500,arxiv.org,35.4,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+501,sans.org,35.4,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+502,designmuseum.org,35.3,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+503,bergdorfgoodman.com,35.2,Starting Point,react-spa,true,2026-08-26,aivs-1.0-aeo20260620-full-evid20260621
+504,logostore.hawaiianairlines.com,35.2,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+505,core77.com,35.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+506,heritage.org,35.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+507,kitcardirect.co.uk,35.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+508,mattel.com,35.0,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+509,puresourceindia.in,35.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+510,usta.com,35.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+511,wincous.com,35.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+512,yale.edu,35.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+513,gutenberg.org,34.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+514,philiptimothy.com,34.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+515,restaurant.org,34.4,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+516,brooksideweldingsupplies.co.uk,34.3,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+517,openstreetmap.org,34.3,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+518,shop.greeneking.co.uk,34.3,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+519,ncaa.com,34.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+520,newforestfootball.co.uk,34.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+521,shop.heart.org,34.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+522,store.integrativenutrition.com,34.0,Starting Point,custom,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+523,linear.app,33.9,Starting Point,unknown,unknown,2026-06-21,aivs-1.0-aeo20260620-full-evid20260621
+524,onlinegothic.co.uk,33.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+525,semrush.com,33.8,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+526,sierranevada.com,33.8,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+527,daringfireball.net,33.6,Starting Point,squarespace,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+528,archive.ics.uci.edu,33.4,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+529,chivali.com,33.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+530,alignmentforum.org,33.2,Starting Point,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+531,eshop.internationalsos.com,33.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+532,nhl.com,33.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+533,seths.blog,33.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+534,ussoccer.com,33.0,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+535,encyclopedia.com,32.4,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+536,beermats.com,32.1,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+537,huggingface.co,32.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+538,tate.org.uk,32.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+539,kenji.co.uk,31.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+540,architizer.com,31.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+541,jaxonlee.co.uk,30.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+542,archive.org,29.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+543,ogieyewear.com,29.6,Starting Point,wix,true,2026-06-27,aivs-1.0-aeo20260620-full-evid20260621
+544,readworks.org,28.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+545,shop.hamamatsu.com,28.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+546,shop.lhh.com,27.8,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+547,gapminder.org,27.6,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+548,uchicago.edu,27.5,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+549,aaas.org,27.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+550,theidlebindery.com,27.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+551,dwell.com,26.6,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+552,servicestation.dotdigital.com,26.2,Starting Point,shopify,true,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+553,idesignawards.com,26.0,Starting Point,wordpress,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+554,wikipedia.org,26.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+555,barrym.com,25.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+556,oyez.org,25.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+557,savertek.com,25.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+558,pgatour.com,24.6,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+559,eu.drivingexperience.hyundai.com,24.2,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+560,exito.com,24.0,Starting Point,react-spa,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+561,indiehackers.com,24.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+562,umich.edu,23.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+563,booksbymetre.com,23.6,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+564,carnegieendowment.org,23.4,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+565,magnoliabakery.com,23.4,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+566,fnatic.com,23.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+567,lkbennett.com,22.8,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+568,likaofficial.com,22.5,Starting Point,unknown,unknown,2026-08-17,aivs-1.0-aeo20260620-full-evid20260621
+569,wearecow.com,22.2,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+570,helicopterproductions.com,22.0,Starting Point,unknown,unknown,2026-08-17,aivs-1.0-aeo20260620-full-evid20260621
+571,shopify-demo.sales.loyaltylion.com,21.2,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+572,treasuryfriendsandfamily.com,21.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+573,ma.dior.com,20.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+574,jmbullion.com,19.8,Starting Point,wordpress,true,2026-06-26,aivs-1.0-aeo20260620-full-evid20260621
+575,lookerstudio.google.com,18.3,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+576,substack.com,18.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+577,whataburger.com,17.4,Starting Point,custom,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+578,nyse.com,16.8,Starting Point,react-spa,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+579,essexfarmfoods.com,16.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+580,wiktionary.org,16.0,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+581,scratch.mit.edu,15.8,Starting Point,custom,false,2026-07-12,aivs-1.0-aeo20260620-full-evid20260621
+582,chamberlandres.co.uk,14.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+583,checkout.spglobal.com,14.0,Starting Point,shopify,true,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+584,durasense.storaenso.com,14.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+585,i-wiceligibility.meijer.com,13.0,Starting Point,shopify,true,2026-06-28,aivs-1.0-aeo20260620-full-evid20260621
+586,millerlite.com,10.2,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+587,checkout.ihsmarkit.com,10.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+588,shop.panerabread.com,7.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+589,bartesian.com,4.8,Starting Point,custom,false,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+590,dealers.wahoofitness.com,4.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+591,irone.harley-davidson.com,4.0,Starting Point,shopify,true,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+592,destore.hermanmiller.com,3.0,Starting Point,custom,true,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+593,checkout.shop.hillspet.com,1.2,Starting Point,custom,false,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+594,faberge.com,0.8,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621
+595,chickidee.co.uk,0.6,Starting Point,shopify,false,2026-06-22,aivs-1.0-aeo20260620-full-evid20260621
+596,pishposhbaby.com,0.0,Starting Point,custom,false,2026-07-13,aivs-1.0-aeo20260620-full-evid20260621

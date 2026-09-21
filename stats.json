@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-21T10:20:03.408Z",
+  "methodology_version": "aivs-1.0-aeo20260620-full-evid20260621",
+  "cohort_all_n": 747,
+  "cohort_all_median": 43.8,
+  "published_n": 596,
+  "published_median": 47.4,
+  "published_below_50_pct": 59.9,
+  "withheld_n": 151,
+  "bands": {
+    "Established": 52,
+    "Developing": 388,
+    "Starting Point": 156
+  },
+  "platforms": {
+    "wordpress": 75,
+    "custom": 197,
+    "shopify": 241,
+    "react-spa": 54,
+    "webflow": 12,
+    "bigcommerce": 4,
+    "woocommerce": 4,
+    "unknown": 4,
+    "squarespace": 3,
+    "wix": 2
+  }
+}
