@@ -35,7 +35,7 @@ The scanner fetches a site's pages the way AI crawlers (GPTBot, PerplexityBot, G
 
 - Not a ranking of quality, traffic or revenue. A score says how much of a site a machine can read, trust and quote, nothing else.
 - Not a claim about citations. Nobody controls what an AI assistant says.
-- Not a sample of the web. The sites were chosen for 2 studies (216 Shopify storefronts in July 2026 and 303 non ecommerce websites across 25 verticals, July 2026) plus later additions to the same cohort, all scanned by Visibility Mesh at its own initiative.
+- Not a sample of the web. The sites were chosen for 2 studies (216 Shopify storefronts scanned on June 28, 2026, and 303 non ecommerce websites across 25 verticals, July 2026) plus later additions to the same cohort, all scanned by Visibility Mesh at its own initiative.
 
 ## Reproducing the numbers
 
